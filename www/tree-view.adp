@@ -5,6 +5,7 @@
     <script type="text/javascript" src="/resources/dotkul-admin/xloadtree/xloadtree.js"></script>
     <link type="text/css" rel="stylesheet" href="/resources/dotkul-admin/xloadtree/xtree.css" />
   </property>
+  <property name="clean_p">1</property>
 
 <div id="node-type">
   <script type="text/javascript">
